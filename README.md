@@ -8,10 +8,10 @@ Instructions given to an LLM are like blueprints for a robot. A clear, detailed,
 
 ## **📁 Directory Structure**
 
-All instruction files are stored under the prompts/ directory and are categorized by topic.
+All instruction files are stored under the Prompts/ directory and are categorized by topic.
 
 .  
-├─ prompts/  
+├─ Prompts/  
 │  ├─ coding.md  
 │  └─ prompt1.md  
 │  └─ prompt2.md  
@@ -22,7 +22,7 @@ All instruction files are stored under the prompts/ directory and are categorize
 
 To use an instruction from this repository, follow these simple steps:
 
-1. **Browse** the prompts/ folder to find an instruction file that fits your needs.  
+1. **Browse** the Prompts/ folder to find an instruction file that fits your needs.  
 2. **Copy** the entire content of the file.  
 3. **Paste** the content into your conversation with the LLM.  
 4. At the end of the instruction, **append** your specific task or question.
